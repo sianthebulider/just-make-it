@@ -1,0 +1,6 @@
+{
+  "name": "Recipe App",
+  "description": "An intuitive culinary recipe organizer with serving scaling, step-by-step cooking mode, ingredient checklists, and shopping list management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
